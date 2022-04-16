@@ -16,8 +16,15 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=liuhongjian0316&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<span >
+	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
+
 <!--
 **liuhongjian0316/liuhongjian0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
