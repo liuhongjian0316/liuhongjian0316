@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/liuhongjian0316?template=classic&config.timezone=Asia%2FShanghai)
+
+
+
+
 <!--
 **liuhongjian0316/liuhongjian0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
