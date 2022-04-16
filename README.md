@@ -22,6 +22,30 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=liuhongjian0316" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=liuhongjian0316&theme=xcode" />
+</div>
+
+<div align="center">
+    <img src="https://stats.justsong.cn/api/csdn?id=liuhongjian0316">
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=liuhongjian0316" />
+</div>
+
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);每天开心!&center=true&size=27">
+  </a>
+</h1>
+
+
+
 <!--
 **liuhongjian0316/liuhongjian0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
