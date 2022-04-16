@@ -1,8 +1,7 @@
-### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/liuhongjian0316?template=classic&config.timezone=Asia%2FShanghai)
-
-
+<div align="center">
+    <img src="https://metrics.lecoq.io/liuhongjian0316?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 
 
 <!--
